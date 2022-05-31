@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/cats-club/static/js/main.027d389d.js",
+    "main.js": "/cats-club/static/js/main.427ad4a7.js",
     "index.html": "/cats-club/index.html",
-    "main.027d389d.js.map": "/cats-club/static/js/main.027d389d.js.map"
+    "main.427ad4a7.js.map": "/cats-club/static/js/main.427ad4a7.js.map"
   },
   "entrypoints": [
-    "static/js/main.027d389d.js"
+    "static/js/main.427ad4a7.js"
   ]
 }
